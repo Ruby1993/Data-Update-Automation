@@ -64,8 +64,3 @@ we = We(True)
 config=config()
 print (config['schedule'][0]['input_json']['key'])
 main(we,kwargs=config)
-
-# redshift-production.weworkers.io
-# rui.zhang3@wework.com
-# Cherish!930219
-# analyticdb
